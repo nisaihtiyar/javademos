@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/javaHelloWorld/javaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaVeriables/javaVeriables.iml" filepath="$PROJECT_DIR$/javaVeriables/javaVeriables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javademos.iml" filepath="$PROJECT_DIR$/.idea/javademos.iml" />
+    </modules>
+  </component>
+</project>
