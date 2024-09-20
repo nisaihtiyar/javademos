@@ -1,4 +1,23 @@
 public class Product {
+
+
+    //Product i iki defa tanimladik
+    //biri parametreli biri parametresiz
+    //buna overloading denir yani asiri yukleme
+    //isteyen istedigini kullanir
+
+    public Product(int id,String name,String description,double price,int stockAmount){
+        this.id= id;
+        this.name=name;
+        this.description=description;
+        this.price=price;
+        this.stockAmount=stockAmount;
+    }
+
+    public Product(){
+
+    }
+
     //attribute | field
     private int id; // private kullanilabilir sadece o blokta kullanilir
     private String name;
