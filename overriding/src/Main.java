@@ -3,7 +3,7 @@ public class Main {
         BaseKrediManager[] krediManagers = new BaseKrediManager[]
                 {new OgretmenKrediManager(),new TarimKrediManager(),new OgrenciKrediManager()};
         for(BaseKrediManager krediManager :krediManagers ){
-           double tutar= krediManager.hesapla(1000);
+           double tutar= krediManager.hesapla( 1000);
            System.out.println(tutar);
         }
     }
